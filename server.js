@@ -5,6 +5,11 @@ const router = jsonServer.router("db.json");
 
 const middlewares = jsonServer.defaults();
 
+server.use((req, res, next) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  next();
+});
+
 server.use(auth);
 server.use(middlewares);
 server.use(router);
