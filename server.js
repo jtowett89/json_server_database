@@ -5,9 +5,13 @@ const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 
 const middlewares = jsonServer.defaults();
-server.use(cors());
+
 server.use(auth);
 server.use(middlewares);
+server.use((req, res, next) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  next();
+});
 server.use(router);
 
 const port = process.env.PORT || 3004;
