@@ -16,7 +16,6 @@ server.use((req, res, next) => {
   );
   res.setHeader("Access-Control-Allow-Credentials", true);
   next();
-  next();
 });
 server.use(auth);
 server.use(middlewares);
