@@ -8,10 +8,7 @@ const middlewares = jsonServer.defaults({ noCors: true });
 
 server.use(auth);
 server.use(middlewares);
-// server.use((req, res, next) => {
-//   res.header("Access-Control-Allow-Origin", "*");
-//   next();
-// });
+server.use(cors());
 server.use(router);
 
 const port = process.env.PORT || 3004;
