@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "node server.js"
+    "server": "node server.js",
+    "serve-json": "json-server -w db.json -p 3004 -m ./node_modules/json-server-auth"
   },
   "keywords": [],
   "author": "",
