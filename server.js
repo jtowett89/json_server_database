@@ -6,6 +6,7 @@ const router = jsonServer.router("db.json");
 
 const middlewares = jsonServer.defaults();
 
+server.db = router.db;
 server.use(
   cors({
     origin: true,
