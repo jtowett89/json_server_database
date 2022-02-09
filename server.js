@@ -17,7 +17,6 @@ server.use(
 server.options("*", cors());
 server.use(auth);
 server.use(middlewares);
-server.use(cors());
 server.use(router);
 
 const port = process.env.PORT || 3004;
