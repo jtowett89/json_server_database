@@ -5,7 +5,7 @@
       "name": "Justice Towett",
       "email": "jtowett89@gmail.com",
       "password": "$2a$10$ZvZNRL9QZ3Nes/RbSLrKSeJjjEzw8jVl.V95lftnaFQZ7QHNugym6",
-      "photo": "https://justice.zerone.co.ke/images/justice.png",
+      "photo": "https://joeto.zerone.co.ke/images/justice.png",
       "friends": [
         {
           "id": 1,
@@ -66,16 +66,41 @@
       "email": "justicetowett@gmail.com",
       "password": "$2a$10$kOU9FcZmjMEU7X1E8hE/b.PhK1WNHPyaNtKdNHDZAqJ9jaLOkzf1q",
       "name": "Emmery Towett",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [],
       "id": 51
     },
     {
       "email": "khloejoanne@gmail.com",
-      "password": "$2a$10$N5oT5zWG5UbKTbcUyw5yWurxsP/KYqlcp/oLLEvkD12Ttb9qOew6G",
+      "password": "$2a$10$dBh9/g1FyY.rFn.oqgD8C.kpXDUgxIlMhitaC9Zg8NcvcSUYGbta2",
       "name": "Joan Mumbi",
       "photo": "http://dummyimage.com/186x184.png/cc0000/ffffff",
-      "friends": [],
+      "friends": [
+        {
+          "id": 1,
+          "friendId": 2
+        },
+        {
+          "id": 2,
+          "friendId": 53
+        },
+        {
+          "id": 3,
+          "friendId": 51
+        },
+        {
+          "id": 4,
+          "friendId": 52
+        },
+        {
+          "id": 5,
+          "friendId": 54
+        },
+        {
+          "id": 6,
+          "friendId": 55
+        }
+      ],
       "id": 52
     },
     {
@@ -90,7 +115,7 @@
       "email": "khloe@gmail.com",
       "password": "$2a$10$nLUIvddF8wzjBd9YvtLhfO2lMxe.spQYzTnLq/N6CdvCbASDgazqy",
       "name": "Khloe Joan",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [
         {
           "id": 1,
@@ -107,7 +132,7 @@
       "email": "thomas@gmail.com",
       "password": "$2a$10$DU0rll8vtNNs6XknEw3DTOrMyOGMQLoFrOCBhr3ebiua2elAVCZN2",
       "name": "Thomas Brown",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [],
       "id": 55
     },
@@ -115,7 +140,7 @@
       "email": "corrine@gmail.com",
       "password": "$2a$10$/BwcHJ2vBMSbdMJqC8IZIe4umx8RW/2Zn.nA9fTdgKlqIAxuGSNyK",
       "name": "Corrine Towett",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [],
       "id": 56
     },
@@ -123,7 +148,7 @@
       "email": "claight@gmail.com",
       "password": "$2a$10$irfsHaZUJIYeGUc5Gtp.heOV1XAyPfAJAqDT8HCR33Iv4qQjiz.NW",
       "name": "Corrine laight",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [],
       "id": 57
     },
@@ -131,7 +156,7 @@
       "email": "mary@gmail.com",
       "password": "$2a$10$s7pcfg.Paw8ZoX87whPFxuD2xR54YoX3O4YeHuavT.tifJJIlTQIq",
       "name": "Mary Sanda",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [],
       "id": 58
     },
@@ -139,7 +164,7 @@
       "email": "john@gmail.com",
       "password": "$2a$10$u4yx3F7/OMt2NNgKwCAz6OmQqxqbRiBv0IajiU9QMITfvzYFiunoi",
       "name": "John Doe",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [],
       "id": 59
     },
@@ -147,7 +172,7 @@
       "email": "anthony@gmail.com",
       "password": "$2a$10$ap5ynmbhwKmCr0SJtsPIku0mWRl9bT4OT7IBoMdi9sCRXOA13wDFq",
       "name": "Anthony Kibet",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [],
       "id": 60
     },
@@ -155,7 +180,7 @@
       "email": "patrick@gmail.com",
       "password": "$2a$10$Jm9XwhOdTtmiT0cuMi6wqercbcXIcnwtODC02rx98ISn4qUXob5.W",
       "name": "Patrick Ndai",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [
         {
           "id": 1,
@@ -201,7 +226,7 @@
       "email": "martin@gmail.com",
       "password": "$2a$10$Bxd873VqoAYgosj.sI8ut.mx3UX5M4Lo7j4ZI0g9WnopT6NeVcNuy",
       "name": "Martin Ndeto",
-      "photo": "http://justice.zerone.co.ke/images/user.jpg",
+      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [
         {
           "id": 1,
@@ -283,6 +308,80 @@
         }
       ],
       "id": 64
+    },
+    {
+      "email": "ee@ee.com",
+      "password": "$2a$10$tPNVCIF7hO.PzZ1H.tutguyVErzLiL3aT2.TcE3TdYBv7B7T/V/Xm",
+      "name": "Eee",
+      "photo": "https://i.imgflip.com/24y43o.jpg",
+      "friends": [
+        {
+          "id": 1,
+          "friendId": 54
+        },
+        {
+          "id": 2,
+          "friendId": 63
+        },
+        {
+          "id": 3,
+          "friendId": 1
+        },
+        {
+          "id": 4,
+          "friendId": 9
+        },
+        {
+          "id": 5,
+          "friendId": 59
+        },
+        {
+          "id": 6,
+          "friendId": 60
+        },
+        {
+          "id": 6,
+          "friendId": 58
+        }
+      ],
+      "id": 65
+    },
+    {
+      "email": "martindeto@gmail.com",
+      "password": "$2a$10$l99vNZjCKSGmEgZ/roYSBOD0dkR.xAO5DkXjRAJdfh8E7nf6PjlCi",
+      "name": "Martin ",
+      "photo": "https://i.imgflip.com/9ehk.jpg",
+      "friends": [
+        {
+          "id": 1,
+          "friendId": 54
+        },
+        {
+          "id": 2,
+          "friendId": 63
+        },
+        {
+          "id": 3,
+          "friendId": 1
+        },
+        {
+          "id": 4,
+          "friendId": 9
+        },
+        {
+          "id": 5,
+          "friendId": 59
+        },
+        {
+          "id": 6,
+          "friendId": 60
+        },
+        {
+          "id": 6,
+          "friendId": 58
+        }
+      ],
+      "id": 66
     }
   ],
   "feeds": [
@@ -335,6 +434,16 @@
       "ownerId": 63,
       "feed": "Matthew Mwangi commented on Khloe Joan's feed",
       "id": 12
+    },
+    {
+      "ownerId": 1,
+      "feed": "Justice Towett liked Matthew Mwangi's feed",
+      "id": 13
+    },
+    {
+      "ownerId": 1,
+      "feed": "Justice Towett liked Matthew Mwangi's feed",
+      "id": 14
     }
   ],
   "likes": [
@@ -372,6 +481,16 @@
       "likerId": 1,
       "feedId": 2,
       "id": 9
+    },
+    {
+      "likerId": 1,
+      "feedId": 12,
+      "id": 10
+    },
+    {
+      "likerId": 1,
+      "feedId": 12,
+      "id": 11
     }
   ],
   "comments": [
