@@ -325,6 +325,80 @@
         }
       ],
       "id": 66
+    },
+    {
+      "email": "emmery@gmail.com",
+      "password": "$2a$10$7yZYH/el8p9OdbJ2b15GKOCnfd5x1aX4iB8GxP29SR4UndNKPDnwK",
+      "name": "Emmery Otieno",
+      "photo": "https://i.imgflip.com/271ps6.jpg",
+      "friends": [
+        {
+          "id": 1,
+          "friendId": 54
+        },
+        {
+          "id": 2,
+          "friendId": 63
+        },
+        {
+          "id": 3,
+          "friendId": 1
+        },
+        {
+          "id": 4,
+          "friendId": 9
+        },
+        {
+          "id": 5,
+          "friendId": 59
+        },
+        {
+          "id": 6,
+          "friendId": 60
+        },
+        {
+          "id": 6,
+          "friendId": 58
+        }
+      ],
+      "id": 67
+    },
+    {
+      "email": "joy@gmail.com",
+      "password": "$2a$10$M0qOLI8as.prwaomMvZviu9HLEdUW.NNeG5qWvJtfagli6U4aO5o6",
+      "name": "Joy Wanja",
+      "photo": "https://i.imgflip.com/39t1o.jpg",
+      "friends": [
+        {
+          "id": 1,
+          "friendId": 54
+        },
+        {
+          "id": 2,
+          "friendId": 63
+        },
+        {
+          "id": 3,
+          "friendId": 1
+        },
+        {
+          "id": 4,
+          "friendId": 9
+        },
+        {
+          "id": 5,
+          "friendId": 59
+        },
+        {
+          "id": 6,
+          "friendId": 60
+        },
+        {
+          "id": 6,
+          "friendId": 58
+        }
+      ],
+      "id": 68
     }
   ],
   "feeds": [
@@ -387,6 +461,31 @@
       "ownerId": 1,
       "feed": "Justice Towett liked Matthew Mwangi's feed",
       "id": 14
+    },
+    {
+      "ownerId": 67,
+      "feed": "Emmery Otieno liked Matthew Mwangi's feed",
+      "id": 15
+    },
+    {
+      "ownerId": 68,
+      "feed": "Joy Wanja liked Emmery Otieno's feed",
+      "id": 16
+    },
+    {
+      "ownerId": 68,
+      "feed": "Joy Wanja liked Emmery Otieno's feed",
+      "id": 17
+    },
+    {
+      "ownerId": 68,
+      "feed": "Joy Wanja liked Emmery Otieno's feed",
+      "id": 18
+    },
+    {
+      "ownerId": 1,
+      "feed": "Justice Towett commented on Joy Wanja's feed",
+      "id": 19
     }
   ],
   "likes": [
@@ -434,6 +533,26 @@
       "likerId": 1,
       "feedId": 12,
       "id": 11
+    },
+    {
+      "likerId": 67,
+      "feedId": 12,
+      "id": 12
+    },
+    {
+      "likerId": 68,
+      "feedId": 15,
+      "id": 13
+    },
+    {
+      "likerId": 68,
+      "feedId": 15,
+      "id": 14
+    },
+    {
+      "likerId": 68,
+      "feedId": 15,
+      "id": 15
     }
   ],
   "comments": [
@@ -472,6 +591,12 @@
       "comment": "Nice",
       "feedId": 11,
       "id": 6
+    },
+    {
+      "ownerId": 1,
+      "comment": "Awesome",
+      "feedId": 18,
+      "id": 7
     }
   ]
 }
