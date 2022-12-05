@@ -1,0 +1,21 @@
+{
+  "name": "Justice_JSON_Server_DB",
+  "version": "0.0.1",
+  "description": "A json-server demo for react social app",
+  "scripts": {
+    "start": "json-server -w ./db.json -m ./node_modules/json-server-auth",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/json-server-demo"
+  },
+  "license": "MIT",
+  "keywords": ["node", "glitch", "json-server"]
+}
