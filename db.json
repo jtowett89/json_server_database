@@ -104,69 +104,12 @@
       "id": 52
     },
     {
-      "email": "tony@gmail.com",
-      "password": "$2a$10$6mzC3pYIt.vpxScITTuPQu49uqoaQfg1alNgXPmwp6rYE0VAnL77m",
-      "name": "Tony Kamau",
-      "photo": "http://dummyimage.com/186x184.png/cc0000/ffffff",
-      "friends": [],
-      "id": 53
-    },
-    {
-      "email": "khloe@gmail.com",
-      "password": "$2a$10$nLUIvddF8wzjBd9YvtLhfO2lMxe.spQYzTnLq/N6CdvCbASDgazqy",
-      "name": "Khloe Joan",
-      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
-      "friends": [
-        {
-          "id": 1,
-          "friendId": 1
-        },
-        {
-          "id": 2,
-          "friendId": 2
-        }
-      ],
-      "id": 54
-    },
-    {
       "email": "thomas@gmail.com",
       "password": "$2a$10$DU0rll8vtNNs6XknEw3DTOrMyOGMQLoFrOCBhr3ebiua2elAVCZN2",
       "name": "Thomas Brown",
       "photo": "http://joeto.zerone.co.ke/images/user.jpg",
       "friends": [],
       "id": 55
-    },
-    {
-      "email": "corrine@gmail.com",
-      "password": "$2a$10$/BwcHJ2vBMSbdMJqC8IZIe4umx8RW/2Zn.nA9fTdgKlqIAxuGSNyK",
-      "name": "Corrine Towett",
-      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
-      "friends": [],
-      "id": 56
-    },
-    {
-      "email": "claight@gmail.com",
-      "password": "$2a$10$irfsHaZUJIYeGUc5Gtp.heOV1XAyPfAJAqDT8HCR33Iv4qQjiz.NW",
-      "name": "Corrine laight",
-      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
-      "friends": [],
-      "id": 57
-    },
-    {
-      "email": "mary@gmail.com",
-      "password": "$2a$10$s7pcfg.Paw8ZoX87whPFxuD2xR54YoX3O4YeHuavT.tifJJIlTQIq",
-      "name": "Mary Sanda",
-      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
-      "friends": [],
-      "id": 58
-    },
-    {
-      "email": "john@gmail.com",
-      "password": "$2a$10$u4yx3F7/OMt2NNgKwCAz6OmQqxqbRiBv0IajiU9QMITfvzYFiunoi",
-      "name": "John Doe",
-      "photo": "http://joeto.zerone.co.ke/images/user.jpg",
-      "friends": [],
-      "id": 59
     },
     {
       "email": "anthony@gmail.com",
